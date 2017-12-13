@@ -13,19 +13,6 @@ For all those who are *really* interested, you can of course read the ISO standa
 ## Paper size
 The internationally recognized paper sizes are those defined in ISO 216 - A0, A1, A2, A3, A4, etc.  For technical drawings, though, ISO 5457 is the reference and the smallest considered size should usually be A2, maybe A3 (rare), but no smaller than A4 (under very special circumstances).  All dimensions given below are in millimeters (mm).
 
-|                 | **Trimmed sheet**            || **Drawing space**                        || **Untrimmed sheet**                  || 
-|-----------------|---------------|---------------|---------------------|---------------------|-------------------|-------------------| 
-| **Designation** | a<sub>1</sub> | b<sub>1</sub> | a<sub>2</sub> ± 0.5 | b<sub>2</sub> ± 0.5 | a<sub>3</sub> ± 2 | b<sub>3</sub> ± 2 | 
-| A0              | 841           | 1189          | 821                 | 1159                | 880               | 1230              | 
-| A1              | 594           | 841           | 574                 | 811                 | 625               | 880               | 
-| A2              | 420           | 594           | 400                 | 564                 | 450               | 625               | 
-| A3              | 297           | 420           | 277                 | 390                 | 330               | 450               | 
-| A4              | 210           | 297           | 180                 | 277                 | 240               | 330               | 
-
-![ISO 5457 paper sizes]({{ site.baseurl }}/images/iso5457-paper-sizes.png)
-
-Paper that comes in boxes/reems, they are considered to be "trimmed".  Paper that comes out of a plotter that prints from a roll, is printed on an "untrimmed" dimension by the printers, then trimmed to the required size manually or automatically.
-
 <table>
 	<tr>
 		<th rowspan="2">Designation</th>
@@ -87,6 +74,10 @@ Paper that comes in boxes/reems, they are considered to be "trimmed".  Paper tha
 		<td>330</td>
 	</tr>
 </table>
+
+![ISO 5457 paper sizes]({{ site.baseurl }}/images/iso5457-paper-sizes.png)
+
+Paper that comes in boxes/reems, they are considered to be "trimmed".  Paper that comes out of a plotter that prints from a roll, is printed on an "untrimmed" dimension by the printers, then trimmed to the required size manually or automatically.
 
 ## Margins and centering marks
 According to ISO 5457, a margin of 20 mm shall be maintained on the left side of the sheet, and a margin of 10 mm shall be maintained on all the other sides of the sheet, measured from the trimmed edge.  However, this margin shall include the 5 mm grid frame (more on this below).
