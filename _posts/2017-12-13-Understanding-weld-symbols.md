@@ -31,3 +31,7 @@ The triangle shall **always** have the perpendicular leg on the left side.  In o
 It is very important to write the fillet leg sizes on the **left** of the triangle because the length of the weld, if relevant, is written on the right side.  If there is no length given, then it is assumed that the weld is continued along the joint until there is some obvious break (a sudden turn, a hole, a different plate, etc.)  If the length on the right of the triangle is followed by a hyphen and a value (e.g. "2-4"), then this is an indication of the spacing of intermittent welds.  So the first value after the triangle is the length, as before, and the value after the hyphen is the distance between the starting point of two consecutive welds (also known as the pitch).
 
 ## Butt welds
+Butt welds in itself do not have their own symbol but are denoted by a whole range of symbols which in fact refer to the groove.
+
+### Square groove welds
+This is the simplest groove weld which is just made of square edges.  The symbol is equally simple with two parallel lines.  What's unusual about this symbol is that the lines almost always cross the reference line.  This is because a square groove butt weld is usually the same on both sides.  The gap between the plates is written in between the parallel lines, above the reference line.
