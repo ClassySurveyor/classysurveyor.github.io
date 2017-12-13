@@ -26,6 +26,32 @@ The internationally recognized paper sizes are those defined in ISO 216 - A0, A1
 
 Paper that comes in boxes/reems, they are considered to be "trimmed".  Paper that comes out of a plotter that prints from a roll, is printed on an "untrimmed" dimension by the printers, then trimmed to the required size manually or automatically.
 
+<table>
+	<tr>
+		<th rowspan="2">Designation</th>
+		<th colspan="2">Trimmed sheet</th>
+		<th colspan="2">Drawing space</th>
+		<th colspan="2">Untrimmed sheet</th>
+	</tr>
+	<tr>
+		<td markdown="span">a<sub>1</sub></td>
+		<td markdown="span">b<sub>1</sub></td>
+		<td markdown="span">a<sub>2</sub></td>
+		<td markdown="span">b<sub>2</sub></td>
+		<td markdown="span">a<sub>3</sub></td>
+		<td markdown="span">b<sub>3</sub></td>
+	</tr>
+	<tr>
+		<td>A0</td>
+		<td>841</td>
+		<td>1189</td>
+		<td>821</td>
+		<td>1159</td>
+		<td>880</td>
+		<td>1230</td>
+	</tr>
+</table>
+
 ## Margins and centering marks
 According to ISO 5457, a margin of 20 mm shall be maintained on the left side of the sheet, and a margin of 10 mm shall be maintained on all the other sides of the sheet, measured from the trimmed edge.  However, this margin shall include the 5 mm grid frame (more on this below).
 
