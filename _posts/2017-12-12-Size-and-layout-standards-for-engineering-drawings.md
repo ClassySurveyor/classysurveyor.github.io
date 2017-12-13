@@ -118,28 +118,128 @@ Although ISO 7200 does not specify required dimensions for title blocks, it sugg
 
 ISO 7200 governs which data fields shall be incorporated in title blocks.  Obviously everyone can add more to the list but these are the minimally required and recommended data fields (M - Mandatory, O - Optional):
 
-| **Field name**            | **Language-dependent** | **Recommended number of characters** | **Obligation** | 
-|---------------------------|------------------------|--------------------------------------|----------------| 
-| Legal owner               | -                      | Unspecified                          | M              | 
-| Identification number     | No                     | 16                                   | M              | 
-| Revision index            | No                     | 2                                    | O              | 
-| Date of issue             | No                     | 10                                   | M              | 
-| Segment/sheet number      | No                     | 4                                    | M              | 
-| Number of segments/sheets | No                     | 4                                    | O              | 
-| Language code             | No                     | 4 per language                       | O              | 
-| Title                     | Yes                    | 25                                   | M              | 
-| Supplementary title       | Yes                    | 2x25                                 | O              | 
-| Responsible department    | No/Yes                 | 10                                   | O              | 
-| Technical reference       | No/Yes                 | 20                                   | O              | 
-| Approval person           | No/Yes                 | 20                                   | M              | 
-| Creator                   | No/Yes                 | 20                                   | M              | 
-| Document type             | Yes                    | 30                                   | M              | 
-| Classification/key words  | No/Yes                 | Unspecified                          | O              | 
-| Document status           | Yes                    | 20                                   | O              | 
-| Page number               | No                     | 4                                    | O              | 
-| Number of pages           | No                     | 4                                    | O              | 
-| Paper size                | No                     | 4                                    | O              | 
-
+<table>
+	<tr>
+		<th>Field name</th>
+		<th>Language-dependent</th>
+		<th>Recommended number of characters</th>
+		<th>Obligation</th>
+	</tr>
+	<tr>
+		<td>Legal owner</td>
+		<td>-</td>
+		<td>Unspecified</td>
+		<td>M</td>
+	</tr>
+	<tr>
+		<td>Identification number</td>
+		<td>No</td>
+		<td>16</td>
+		<td>M</td>
+	</tr>
+	<tr>
+		<td>Revision index</td>
+		<td>No</td>
+		<td>2</td>
+		<td>O</td>
+	</tr>
+	<tr>
+		<td>Date of issue</td>
+		<td>No</td>
+		<td>10</td>
+		<td>M</td>
+	</tr>
+	<tr>
+		<td>Segment/sheet number</td>
+		<td>No</td>
+		<td>4</td>
+		<td>M</td>
+	</tr>
+	<tr>
+		<td>Number of segments/sheets</td>
+		<td>No</td>
+		<td>4</td>
+		<td>O</td>
+	</tr>
+	<tr>
+		<td>Language code</td>
+		<td>No</td>
+		<td>4 per language</td>
+		<td>O</td>
+	</tr>
+	<tr>
+		<td>Title</td>
+		<td>Yes</td>
+		<td>25</td>
+		<td>M</td>
+	</tr>
+	<tr>
+		<td>Supplementary title</td>
+		<td>Yes</td>
+		<td>2x25</td>
+		<td>O</td>
+	</tr>
+	<tr>
+		<td>Responsible department</td>
+		<td>No/Yes</td>
+		<td>10</td>
+		<td>O</td>
+	</tr>
+	<tr>
+		<td>Technical reference</td>
+		<td>No/Yes</td>
+		<td>20</td>
+		<td>O</td>
+	</tr>
+	<tr>
+		<td>Approval person</td>
+		<td>No/Yes</td>
+		<td>20</td>
+		<td>M</td>
+	</tr>
+	<tr>
+		<td>Creator</td>
+		<td>No/Yes</td>
+		<td>20</td>
+		<td>M</td>
+	</tr>
+	<tr>
+		<td>Document type</td>
+		<td>Yes</td>
+		<td>30</td>
+		<td>M</td>
+	</tr>
+	<tr>
+		<td>Classification/key words</td>
+		<td>No/Yes</td>
+		<td>Unspecified</td>
+		<td>O</td>
+	</tr>
+	<tr>
+		<td>Document status</td>
+		<td>Yes</td>
+		<td>20</td>
+		<td>O</td>
+	</tr>
+	<tr>
+		<td>Page number</td>
+		<td>No</td>
+		<td>4</td>
+		<td>O</td>
+	</tr>
+	<tr>
+		<td>Number of pages</td>
+		<td>No</td>
+		<td>4</td>
+		<td>O</td>
+	</tr>
+	<tr>
+		<td>Paper size</td>
+		<td>No</td>
+		<td>4</td>
+		<td>O</td>
+	</tr>
+</table>
 
 **Legal owner** refers to the owner of the drawing - usually the engineering firm.
 
