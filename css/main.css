@@ -78,8 +78,8 @@ table {
 	border-color:grey;
 }
 
-td {
-	border:1px solid #dfe2e5;
+td, th {
+	border: 1px solid #E1E1E1;
 }
 
 .article {
