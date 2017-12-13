@@ -1,0 +1,19 @@
+# Site settings
+title: ClassySurveyor
+email: admin@classysurveyor.com
+url:            "https://classysurveyor.com"
+
+
+plugins:
+  - jekyll-paginate
+
+paginate: 3
+
+future:      true
+
+paginate_path: /page:num/
+
+#Social Media
+author:
+  twitter: ClassySurveyor
+  instagram: ClassySurveyor

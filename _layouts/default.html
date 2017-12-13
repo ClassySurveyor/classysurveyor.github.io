@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+	{% include head.html %}
+<body>
+	<div class="container">
+	
+		{% include top-header.html %}
+		{% assign twitter_username = site.twitter_username %}
+		<div class="row">
+			<div class="eight columns" id="main-content">
+				{{ content }}
+			</div>
+			
+			<div class="four columns" id="sidebar">
+				<!--
+				<div class="sidebox">
+					<h6 class="sidebox-title">search</h6>
+					<input type="text" placeholder="Search..." id="searchInput">
+					<button class="button-primary" id="searchSubmit">SEARCH</button>
+				</div>
+				--!>
+				<div class="sidebox">
+					<h6 class="sidebox-title">social media</h6>
+					<p><a class="social-media-username" href="http://twitter.com/{{ site.title }}"><img class="social-media-icon" src="{{ site.baseurl }}/images/twitter.svg">@{{ site.author.twitter }}</a></p>
+					<p><a class="social-media-username" href="http://instagram.com/{{ site.title }}"><img class="social-media-icon" src="{{ site.baseurl }}/images/instagram.svg">@{{ site.author.instagram }}</a></p>
+				</div>
+				<!--
+				<div class="sidebox">
+					<h6 class="sidebox-title">newsletter</h6>
+					<input type="email" placeholder="Your email..." id="emailInput">
+					<button class="button-primary" id="emailSubmit">SUBSCRIBE</button>
+				</div>
+				--!>
+				<div class="sidebox">
+					<h6 class="sidebox-title">latest posts</h6>
+					{% for post in site.posts %}
+					<div class="recent-post">
+						<h5 class="recent-post-title"><a href="{{ post.url }}">{{ post.title }}</a></h5>
+						<p class="recent-post-date">{{ post.date | date: "%-d %B %Y"  }}</p>
+					</div>
+					{% endfor %}
+				</div>
+				<div class="sidebox">
+					<h6 class="sidebox-title">tags</h6>
+					{% include tagarchive.html %}
+				</div>
+			</div>
+		</div>
+		
+	
+		{% include footer.html %}
+		
+	</div>
+</body>
+</html>

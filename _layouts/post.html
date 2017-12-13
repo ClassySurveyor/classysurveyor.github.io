@@ -1,0 +1,22 @@
+---
+layout: default
+---
+
+<div class="article">
+    {% if page.thumb %}
+		<img class="thumb" src="{{ site.baseurl }}/images/{{ page.thumb }}">
+	{% endif %}
+	<h3 class="title">{{ page.title }}</h3>
+	<h5 class="date" style="margin-bottom:30px;">{{ page.date | date: "%-d %B %Y" }}</h5>
+
+
+{{ content }}
+
+	<div class="list-of-tags">
+  	{% for tag in page.tags %}
+  	  {% capture tag_name %}{{ tag }}{% endcapture %}
+  	  <a class="tag-name" href="/tag/{{ tag_name }}">{{ tag_name }}</a>
+  	{% endfor %}
+	</div>
+</div>
+
