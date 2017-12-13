@@ -76,7 +76,7 @@ p {
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 
 .article {
-	margin-bottom:100px;
+	margin-bottom:0px;
 }
 
 	.thumb {
@@ -142,10 +142,6 @@ p {
 	.article th, td, th:first-child, td:first-child, th:last-child, td:last-child {
 		padding:4px 5px;
 		order: 1px solid #E1E1E1;
-	}
-
-	.article {
-		margin-bottom:0px;
 	}
 	
 	.article img {
