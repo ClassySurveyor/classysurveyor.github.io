@@ -91,11 +91,6 @@ The centering marks are located at the horizontal and vertical centers of the "d
 ## Border and frame
 Two overlapping 10 mm x 5 mm rectangles in the shape of an "L" shall be placed on all four corners to assist with trimming (if necessary) - this is called a "Trimming mark".  A 5 mm wide grid reference frame shall be plotted around the "drawing space".  The number of fields (or cells) depends on the paper size but it shall be aligned from the "centering marks".  Each field shall have a length of 50 mm.
 
-| **Designation** | **A0** | **A1** | **A2** | **A3** | **A4** |
-|-----------------|--------|--------|--------|--------|--------| 
-| **Long side**   | 24     | 16     | 12     | 8      | 6      | 
-| **Short side**  | 16     | 12     | 8      | 6      | 4      | 
-
 <table>
 	<tr>
 		<th>Designation</th>
