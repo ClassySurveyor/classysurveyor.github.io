@@ -36,10 +36,10 @@ Paper that comes in boxes/reems, they are considered to be "trimmed".  Paper tha
 	<tr>
 		<td markdown="span">a<sub>1</sub></td>
 		<td markdown="span">b<sub>1</sub></td>
-		<td markdown="span">a<sub>2</sub></td>
-		<td markdown="span">b<sub>2</sub></td>
-		<td markdown="span">a<sub>3</sub></td>
-		<td markdown="span">b<sub>3</sub></td>
+		<td markdown="span">a<sub>2</sub> ± 0.5</td>
+		<td markdown="span">b<sub>2</sub> ± 0.5</td>
+		<td markdown="span">a<sub>3</sub> ± 2</td>
+		<td markdown="span">b<sub>3</sub> ± 2</td>
 	</tr>
 	<tr>
 		<td>A0</td>
