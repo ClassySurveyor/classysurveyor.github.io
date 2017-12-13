@@ -96,6 +96,33 @@ Two overlapping 10 mm x 5 mm rectangles in the shape of an "L" shall be placed o
 | **Long side**   | 24     | 16     | 12     | 8      | 6      | 
 | **Short side**  | 16     | 12     | 8      | 6      | 4      | 
 
+<table>
+	<tr>
+		<th>Designation</th>
+		<th>A0</th>
+		<th>A1</th>
+		<th>A2</th>
+		<th>A3</th>
+		<th>A4</th>
+	</tr>
+	<tr>
+		<th>Long side</th>
+		<td>24</td>
+		<td>16</td>
+		<td>12</td>
+		<td>8</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<th>Short side</th>
+		<td>16</td>
+		<td>12</td>
+		<td>8</td>
+		<td>6</td>
+		<td>4</td>
+	</tr>
+</table>
+
 This arrangement will lead to some imperfect division of the drawing space but this okay - the grid system is just used (very rarely) for reference.  This difference should be included in the "corner cells".  The cells shall be marked with capital letters on the sides going from top to bottom (I and O shall not be used) and with numbers on the top and bottom going from left to right.  The size of the letters and characters shall be 3.5 mm.
 
 For A4 papers, only the top and the right side have the grid reference frames.
