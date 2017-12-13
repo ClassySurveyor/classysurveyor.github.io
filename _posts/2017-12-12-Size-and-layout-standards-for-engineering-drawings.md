@@ -50,6 +50,42 @@ Paper that comes in boxes/reems, they are considered to be "trimmed".  Paper tha
 		<td>880</td>
 		<td>1230</td>
 	</tr>
+	<tr>
+		<td>A1</td>
+		<td>594</td>
+		<td>841</td>
+		<td>574</td>
+		<td>811</td>
+		<td>625</td>
+		<td>880</td>
+	</tr>
+	<tr>
+		<td>A2</td>
+		<td>420</td>
+		<td>594</td>
+		<td>400</td>
+		<td>564</td>
+		<td>450</td>
+		<td>625</td>
+	</tr>
+	<tr>
+		<td>A3</td>
+		<td>297</td>
+		<td>420</td>
+		<td>277</td>
+		<td>390</td>
+		<td>330</td>
+		<td>450</td>
+	</tr>
+	<tr>
+		<td>A4</td>
+		<td>210</td>
+		<td>297</td>
+		<td>180</td>
+		<td>277</td>
+		<td>240</td>
+		<td>330</td>
+	</tr>
 </table>
 
 ## Margins and centering marks
