@@ -74,9 +74,6 @@ p {
 
 /* Main Content
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
-td, th {
-	border: 1px solid #E1E1E1;
-}
 
 .article {
 	margin-bottom:100px;
@@ -142,9 +139,11 @@ td, th {
 		margin-left:0;
 	}
 	
-	.article td {
+	.article th, td, th:first-child, td:first-child, th:last-child, td:last-child {
 		padding:4px 5px;
+		order: 1px solid #E1E1E1;
 	}
+
 	.article {
 		margin-bottom:0px;
 	}
