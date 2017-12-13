@@ -74,6 +74,14 @@ p {
 
 /* Main Content
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
+table {
+	border-color:grey;
+}
+
+td {
+	border:1px solid #dfe2e5;
+}
+
 .article {
 	margin-bottom:100px;
 }
