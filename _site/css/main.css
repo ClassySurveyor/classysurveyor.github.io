@@ -74,12 +74,17 @@ p {
 
 /* Main Content
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
+
 .article {
 	margin-bottom:100px;
 }
 
 	.thumb {
 		width:100%;
+	}
+	
+	.article h1 {
+		font-size:26px;
 	}
 	
 	.article .title {
@@ -92,6 +97,22 @@ p {
 	.article .title a {
 		text-decoration:none;
 		color:#222;
+	}
+	
+	.article h2 {
+		font-size:24px;
+	}
+	
+	.article h3 {
+		font-size:20px;
+	}
+	
+	.article h3 {
+		font-size:16px;
+	}
+	
+	.article h4 {
+		font-size:14px;
 	}
 	
 	.article .date {
@@ -109,6 +130,22 @@ p {
 	.article .preview {
 		line-height:2em;
 		margin-bottom:10px;
+	}
+	
+	.article blockquote {
+		background-color: #f6f8fa;
+		border-left: 0.25em solid #dfe2e5;
+		padding-left: 1em;
+		margin-left:0;
+	}
+	
+	.article th, td, th:first-child, td:first-child, th:last-child, td:last-child {
+		padding:4px 5px;
+		border: 1px solid #E1E1E1;
+	}
+	
+	.article img {
+		max-width:100%;
 	}
 
 #articleNavigate {
