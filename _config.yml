@@ -9,7 +9,7 @@ plugins:
 
 paginate: 3
 
-future:      true
+future:      false
 
 paginate_path: /page:num/
 
