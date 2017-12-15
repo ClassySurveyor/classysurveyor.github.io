@@ -1,7 +1,8 @@
 /* General Style
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 body {
-	font-family:Roboto;
+	/*font-family:Roboto;*/
+	font-family: 'Ropa Sans', sans-serif;
 }
 
 .container {
