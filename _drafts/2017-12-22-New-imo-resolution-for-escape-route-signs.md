@@ -10,8 +10,10 @@ This marks another move in the general direction of linking international standa
 
 Previously, the IMO signs that were posted around the ship were posted due to various references in SOLAS Ch. II-2 and/or Ch. III and the signs themselves were given in [Resolution A.760(18) Symbols Related to Life-Saving Appliance and Arrangements](http://www.imo.org/blast/blastDataHelper.asp?data_id=22605&filename=A760(18)E.pdf), which was amended by [Resolution MSC.82(70)](http://www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Maritime-Safety-Committee-(MSC)/Documents/MSC.82(70).pdf).  However, in 2002, the Maritime Safety Committee noted that ISO was developing a new ISO standard for shipboard signage and agreed that, once the standard was published, it may replace resolution A.760(18), as amended by resolution MSC.82(70) - [Ref. MSC Circular 1553](http://www.classysurveyor.com/assets/IMO/MSC.1-Circ.1553%20-%20Shipboard%20Escape%20Route%20Signs%20And%20Emergency%20Equipment%20Location%20Markings%20(Secretariat).pdf).
 
-
 Now, SOLAS Ch. II-2 and Ch. III will simply refer to ISO 24409-2:2014 and any updates to the ISO standard will propagate to the SOLAS requirements.
+
+
+# Commentary
 
 Although this makes the job of the regulators easier, it makes the job of the enforcers and applicants more difficult.  It is sufficiently difficult to have access to one set of regulatory instruments but when you start referring to other standards, it forces users to obtain access to those references too - this can be impractical and costly.  Specifically speaking, IMO regulations are all freely available.  ISO standards are *not*.
 
