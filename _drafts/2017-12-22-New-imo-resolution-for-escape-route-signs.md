@@ -13,7 +13,7 @@ Previously, the IMO signs that were posted around the ship were posted due to va
 Now, SOLAS Ch. II-2 and Ch. III will simply refer to ISO 24409-2:2014 and any updates to the ISO standard will propagate to the SOLAS requirements.
 
 
-# Commentary
+## Commentary
 
 Although this makes the job of the regulators easier, it makes the job of the enforcers and applicants more difficult.  It is sufficiently difficult to have access to one set of regulatory instruments but when you start referring to other standards, it forces users to obtain access to those references too - this can be impractical and costly.  Specifically speaking, IMO regulations are all freely available.  ISO standards are *not*.
 
