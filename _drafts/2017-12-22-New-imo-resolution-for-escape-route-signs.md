@@ -1,7 +1,7 @@
 ---
 layout: post
 title: New IMO resolution for escape route signs and equipment location markings
-tags: IMO regulations SOLAS ISO standards
+tags: news IMO regulations SOLAS ISO standards
 thumb: imo.png
 ---
 The 30th session of the IMO Assembly met in London at the IMO Headquarters from 27 November to 8 December 2017 and harmonized requirements for escape route signs and equipment location markings were adopted by the Assembly.  Based on the new resolution, the safety signs on board ship are now governed by ISO standard 24409-2:2014, “Design, location and use of shipboard safety signs, safety related signs, safety notices and safety markings." The requirements will apply to ships constructed on or after 1 January 2019, or amended according to SOLAS Ch. II-2 and/or Ch. III after that date.
@@ -12,6 +12,10 @@ Previously, the IMO signs that were posted around the ship were posted due to va
 
 Now, SOLAS Ch. II-2 and Ch. III will simply refer to ISO 24409-2:2014 and any updates to the ISO standard will propagate to the SOLAS requirements.
 
+## Summary of Changes
+ISO 24409-2:2014 takes on a **much** more detailed approach to these signboards - as they usually do with everything else.  Every signboard is categorized, given a reference number, name, function, image description, the hazard that it mitigates, intended human behaviour, additional information, complementary signs and further references.  I must say, the standardization is refreshing for an obsessive-compulsive like myself.
+
+Also, some signs have been updated and some have been reused.
 
 ## Commentary
 
