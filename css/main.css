@@ -21,7 +21,7 @@ input:-ms-input-placeholder {
   text-align: center;
 }
 
-p {
+p, ol, li, table, td, tr {
 	font-weight:300;
 	line-height:2em;
 }
