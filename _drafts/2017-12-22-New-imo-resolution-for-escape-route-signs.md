@@ -15,6 +15,14 @@ Now, SOLAS Ch. II-2 and Ch. III will simply refer to ISO 24409-2:2014 and any up
 
 ## Commentary
 
-Although this makes the job of the regulators easier, it makes the job of the enforcers and applicants more difficult.  It is sufficiently difficult to have access to one set of regulatory instruments but when you start referring to other standards, it forces users to obtain access to those references too - this can be impractical and costly.  Specifically speaking, IMO regulations are all freely available.  ISO standards are *not*.
+Although this makes the job of the regulators easier, it makes the job of the enforcers and applicants more difficult.  It is sufficiently difficult to have access to one set of regulatory instruments but when you start referring to other standards, it forces users to obtain access to those references too - this can be impractical and costly.
 
-As a class surveyor, I always have people in the industry asking me to help them get clarification on an ISO standard because it is not worth it for them to purchase a standard for 70-odd dollars/euro for just one sentence - and I don't blame them.
+If we do a direct comparison, in this case, all one needed was the SOLAS publication - available from IMO in electronic format for £90 - and the freely available circulars.  Now, one must also purchase ISO 24409-2:2014 - availaable from ISO for CHF 198 (approximately £150).  This leads to an overall cost 2.5 times greater than before (£90 vs £240).
+
+Of course most companies have corporate access to all the necessary documents but there are two issues for me:
+1. The smaller organisations within this industry face difficulty justifying such expenses, leading to non-compliance which could lead to less safe operations.
+2. The interested student/person's access to valuable information is limited as is and increasing costs make it more difficult to obtain information.
+
+Other than access, it is quite tedious for me to read regulations and then have to click away to multiple other references just to understand the most basic things.
+
+All the above further justifies the value in my consolidated, free summaries of such things for general consumption.
