@@ -1,12 +1,12 @@
 # Site settings
-title:          ClassySurveyor
+title:          Classy Surveyor's Journal
 description:    "Sharing my experience in the maritime industry."
 url:            https://classysurveyor.com
 
 # Author
 author:
   name:         ClassySurveyor
-  email:        admin@classysurveyor.com
+  email:        contact@classysurveyor.com
   url:          https://classysurveyor.com
 
 # Build settings
