@@ -1,0 +1,21 @@
+---
+layout: default
+---
+<div class="tag-page">
+	<h3 class="title">Posts tagged with <span class="tag-title">{{ page.tag }}</span></h3>
+		
+	{% for post in site.tags[page.tag] %}
+	<table class="tag-results">
+		<tr>
+			{% if post.thumb %}
+				<td rowspan="2"><img class="thumb" src="{{ site.baseurl }}/images/{{ post.thumb }}"></td>
+			{% endif %}
+			<td><a class="post-title" href="{{ post.url }}">{{ post.title }}</a></td>
+		</tr>
+		<tr>
+			<td>({{ post.date | date_to_string }})</td>
+		</tr>
+	</table>
+	<hr>
+	{% endfor %}
+</div>
